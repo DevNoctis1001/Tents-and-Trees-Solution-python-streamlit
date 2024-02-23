@@ -13,3 +13,12 @@ The rules of the puzzle are as follows:
     •	A tent can only be found horizontally or vertically next to a tree.
     •	Tents are never next to each other, neither vertically, horizontally, or diagonally.
     •	A tree might be next to two tents but is only connected to one.
+
+## About the algorithm
+
+I solved this problem using a step-by-step, iterative method.
+Each cells of grid may be 4 states : "tree", "tent", "grass", or "not-tested".
+
+The steps of algorithm are as follows:
+	
+- Check all hints in rows and columns. If you find a row or column with a "0" hint, you can set all cells except for the trees in that row and column to "grass".
