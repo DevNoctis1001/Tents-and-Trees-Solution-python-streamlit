@@ -69,6 +69,8 @@ Streamlit is a powerful tool to create web UI with python for data science and A
 
 ## License
 
-### MIT License
+This project is licensed under the [MIT License](https://github.com/DevNoctis1001/Tents-and-Trees-Solution-python-streamlit/blob/main/LICENSE). 
+
+You are free to use the code and resources for educational or personal purposes.
 
 
