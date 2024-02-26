@@ -11,7 +11,7 @@ The rules of the puzzle are as follows:
     •	The number of tents is the same as the number of trees.
     •	The clues tell you how many tents are in that row or column.
     •	A tent can only be found horizontally or vertically next to a tree.
-    •	Tents are never next to each other, neither vertically, horizontally, or diagonally.
+    •	Tents are never next to each other, neither vertically, horizontally, or diagonally. 
     •	A tree might be next to two tents but is only connected to one.
 
 ## About the algorithm
